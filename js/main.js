@@ -144,7 +144,10 @@ var geojsonSources = {
   "realE": realE,
   "WeStay": WeStay,
   "WesternQueens2": WesternQueens2, 
+<<<<<<< Updated upstream
   "TimesSquare": TimesSquare, 
+=======
+>>>>>>> Stashed changes
 };
 
 //these are the js file name on left and actual name on right
