@@ -143,7 +143,8 @@ var geojsonSources = {
   "ravenswood": ravenswood,
   "realE": realE,
   "WeStay": WeStay,
-  "WesternQueens2": WesternQueens2,  
+  "WesternQueens2": WesternQueens2, 
+  "TimesSquare": TimesSquare, 
 };
 
 //these are the js file name on left and actual name on right
