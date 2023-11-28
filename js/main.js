@@ -66,6 +66,7 @@ function getTouchingGeoJSON(marker) {
     "realE": realE,
     "WeStay": WeStay,
     "WesternQueens": WesternQueens,
+    "TimesSquare": TimesSquare,
   };
 
   // Iterate through each GeoJSON layer
@@ -142,7 +143,7 @@ var geojsonSources = {
   "ravenswood": ravenswood,
   "realE": realE,
   "WeStay": WeStay,
-  "WesternQueens2": WesternQueens2, 
+  "WesternQueens2": WesternQueens2,  
 };
 
 //these are the js file name on left and actual name on right
@@ -164,6 +165,7 @@ var geojsonnames = {
   "realE": "ReAL Edgemere CLT",
   "WeStay": "We Stay/Nos Quedamos",
   "WesternQueens2": "Western Queens CLT"
+  "TimesSquare": "Times Square CLT"
 };
 var markers = [];
 var currentGeoJSONLayer = null; // To track the currently displayed GeoJSON layer
